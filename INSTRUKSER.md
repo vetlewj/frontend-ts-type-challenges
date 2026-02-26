@@ -25,6 +25,7 @@ Den vil starte med å se sånn ut (for oppgave 4):
 ![](./errors1.png)
 
 og den er løst når den ser slik ut: 
+
 ![](./errors2.png)
 
 ### Klone og kjøre lokalt (i vscode)
