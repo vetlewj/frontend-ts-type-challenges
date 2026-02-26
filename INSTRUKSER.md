@@ -37,7 +37,7 @@ NB: Krever:
 1. Klone prosjektet:
 
 ```bash
-git clone git@github.com:vetlewj/frontend-ts-type-challenges.git
+git clone git@github.com:type-challenges/type-challenges.git
 ```
 
 2. Installere avhengigheter
