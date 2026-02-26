@@ -21,10 +21,11 @@ Her får man spørsmål om å installere en plugin. Trykk Ja. Så vidt jeg forst
 2. Velg oppgave
 3. Løs oppgaven ved at det ikke er noen errors igjen i error-taben
 Den vil starte med å se sånn ut (for oppgave 4):
-![[Pasted image 20260226130608.png]]
+
+![](./errors1.png)
 
 og den er løst når den ser slik ut: 
-![[Pasted image 20260226130651.png]]
+![](./errors2.png)
 
 ### Klone og kjøre lokalt (i vscode)
 NB: Krever: 
